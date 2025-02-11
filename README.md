@@ -1,15 +1,7 @@
 # Trilogues
-Files related to trilogues' parsing, scaling and processing should be stored here
+This repository contains the basic scripts used for scaling the trilogue tabes collected by the "EUINACTION" project. 
 
-# To-do
 
-- [ ] Add data
-
-- [x] Add training and test set
-  
-- [x] Add Training script
-  
-- [x] Add inference script
 
 ### Dependencies
 **GPU REQUIRED**
